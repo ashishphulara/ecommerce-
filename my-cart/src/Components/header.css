@@ -10,7 +10,10 @@
 }
 .shop{
     color: aliceblue;
-   margin-top: 1%;
+   margin-top: 1.5%;
+   margin-right: 8px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: larger
 }
 .cartimg{
     color: aliceblue;
